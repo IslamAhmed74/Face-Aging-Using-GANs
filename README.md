@@ -1,4 +1,4 @@
-# 🤖 Age-Invariant Face Recognition Using GANs
+# 🤖 Face Aging Recognation Using GANs
 
 ## 📌 Overview
 
