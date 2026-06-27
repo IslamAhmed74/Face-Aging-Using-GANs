@@ -146,7 +146,7 @@ Identity Verification
 
 The complete graduation project report is available here:
 
-📄 [Graduation Project Report](docs/Graduation_Project_Report.pdf)
+📄 [Graduation Project Report](Graduation_Project_Report.pdf)
 
 ---
 
